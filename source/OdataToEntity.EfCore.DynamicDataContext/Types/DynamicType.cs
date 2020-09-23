@@ -101,6 +101,16 @@ namespace OdataToEntity.EfCore.DynamicDataContext.Types
         internal DynamicType? SingleNavigation8;
         internal DynamicType? SingleNavigation9;
         internal DynamicType? SingleNavigation10;
+        internal DynamicType? SingleNavigation11;
+        internal DynamicType? SingleNavigation12;
+        internal DynamicType? SingleNavigation13;
+        internal DynamicType? SingleNavigation14;
+        internal DynamicType? SingleNavigation15;
+        internal DynamicType? SingleNavigation16;
+        internal DynamicType? SingleNavigation17;
+        internal DynamicType? SingleNavigation18;
+        internal DynamicType? SingleNavigation19;
+        internal DynamicType? SingleNavigation20;
         internal DynamicType? SingleNavigation21;
         internal DynamicType? SingleNavigation22;
         internal DynamicType? SingleNavigation23;
@@ -251,6 +261,7 @@ namespace OdataToEntity.EfCore.DynamicDataContext.Types
         internal Object? ShadowProperty137;
         internal Object? ShadowProperty138;
         internal Object? ShadowProperty139;
+
 #pragma warning restore 0649
 
         internal T ShadowPropertyGet1<T>() => GetShadowPropertyValue<T>();
